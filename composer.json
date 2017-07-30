@@ -1,0 +1,14 @@
+{
+    "name": "gmars/tp5-payment",
+    "description": "gmars/tp5-payment",
+    "type": "composer-plugin",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "weiyongqiang",
+            "email": "weiyongqiang@weiyongqiang.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
